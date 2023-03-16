@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">TesteAmbiente</string>
     <string name="texto_usuario">Usuário</string>
+    <string name="texto_senha">Senha</string>
+    <string name="button">Logar</string>
+    <string name="button_cadastrar">Cadastrar</string>
+    <string name="button_esqueci_a_senha">Esqueci a senha</string>
 </resources>
